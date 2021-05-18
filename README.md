@@ -56,6 +56,6 @@ c           | 80%
 
 email id is (luckylikhita2@gmail.com)
 
-    :smile:
+: smile:
 
 
