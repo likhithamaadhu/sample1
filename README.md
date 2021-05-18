@@ -30,6 +30,24 @@ _this is also italic_
 
 ![Github](https://cdn-images-1.medium.com/max/1600/1*qwFrTMnFkcd3U9rFKwwacw.png)
 
+# Blockquotes
+> bkjbkbkb
+> block quotes
+
+## inline code
+
+'mic collge'
+
+# table creating
+
+Technology  | Percentage
+----------  | ---------
+python      | 80%
+html        | 70%
+c           | 80%
+
+:smile:
+
     
 
 
