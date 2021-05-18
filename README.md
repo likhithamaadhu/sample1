@@ -54,8 +54,6 @@ c           | 80%
 
 ## Email:
 
-email id is:(luckylikhita2@gmail.com)
-
-:smile:
+email id is:(luckylikhita2@gmail.com):smile:
 
 
