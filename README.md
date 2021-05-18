@@ -50,12 +50,12 @@ python      | 80%
 html        | 70%
 c           | 80%
 
-:smile:
+
 
 ## Email:
 
-(luckylikhita2@gmail.com)
+email id is (luckylikhita2@gmail.com)
 
-    
+    :smile:
 
 
